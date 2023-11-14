@@ -9,6 +9,7 @@ Découvrer le jeux du démineur dans votre terminal avec 3 niveaux de difficult�
 
 ```
 $ git clone https://github.com/Lucstay11/Demineur-game
+```
+```
 $ python3 game.py
-
 ```
